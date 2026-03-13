@@ -1,68 +1,164 @@
-# NeuroForgeLabs
+<div align="center">
 
-AI Security • Developer Tools • Blockchain Infrastructure
+# 🧠 NeuroForgeLabs
 
-NeuroForgeLabs builds open-source tools for developers working with:
+### AI Systems • Security Tools • Developer Infrastructure
 
-- 🤖 AI Systems
-- 🔐 Smart Contract Security
-- 🧠 LLM Infrastructure
-- ⚡ Developer Productivity
+Building the next generation of **AI-native developer tools**.
 
-Our mission is to build **AI-native development tools** that make engineers faster, safer, and more effective.
+[![GitHub stars](https://img.shields.io/github/stars/NeuroForgeLabs?style=social)](https://github.com/NeuroForgeLabs)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
+[![AI](https://img.shields.io/badge/AI-LLM%20Systems-purple)]()
+[![Blockchain](https://img.shields.io/badge/Web3-Security-orange)]()
 
----
-
-## Projects
-
-### 🔍 CodePilot AI
-AI-powered interview preparation platform.
-
-https://codepilotai.dev
+</div>
 
 ---
 
-### 🛡 OpenAudit AI
-Deterministic Solidity smart contract static analysis tool.
+# ⚡ About NeuroForgeLabs
 
-Features:
-- Static AST analysis
-- Security rule engine
-- Optional AI explanations
+**NeuroForgeLabs** is an open-source engineering lab focused on building advanced tools for:
+
+• 🤖 **AI Engineering**  
+• 🔐 **Smart Contract Security**  
+• 🧠 **LLM Infrastructure**  
+• ⚙️ **Developer Productivity**
+
+Our goal is to build **AI-native development tooling** that helps engineers build, debug, and secure complex systems.
 
 ---
 
-### 🧠 RAG Doctor
-Debugging toolkit for Retrieval Augmented Generation pipelines.
+# 🚀 Core Projects
+
+## 🛡 OpenAudit AI
+
+Deterministic smart-contract security analysis engine for Solidity.
+
+Unlike traditional AI auditors, OpenAudit AI uses:
+
+• AST-based static analysis  
+• deterministic rule engines  
+• reproducible security findings  
+
+Optional AI layer provides **human-readable explanations**.
+
+```
+Solidity Contract
+↓
+Static Parser
+↓
+AST
+↓
+Rule Engine
+↓
+Security Findings
+↓
+AI Explanation Layer
+```
+---
+
+## 🧠 RAG Doctor
+
+Developer tool for diagnosing **RAG pipeline failures**.
 
 Detects:
-- chunking issues
-- embedding drift
-- retrieval failures
-- hallucination root causes
+
+• retrieval failures  
+• embedding drift  
+• chunking issues  
+• hallucination root causes  
+
+Designed for **AI engineers building production LLM systems**.
 
 ---
 
-## Contributing
+## 🤖 CodePilot AI
 
-We welcome contributors.
+AI interview preparation platform designed for **AI engineers and system builders**.
 
-If you are interested in:
+Focus areas:
 
-- AI systems engineering
-- security tooling
-- developer infrastructure
+• algorithmic thinking  
+• AI-assisted problem solving  
+• modern coding challenges  
+• simulated engineering environments  
 
-open an issue or PR.
+🌐 https://codepilotai.dev
 
 ---
 
-## Founder
+# 🧪 Research Areas
 
-Built by  
+NeuroForgeLabs explores cutting-edge systems including:
+
+• Retrieval Augmented Generation (RAG)  
+• AI debugging infrastructure  
+• developer tooling for LLM systems  
+• blockchain security analysis  
+• AI-assisted software engineering
+
+---
+
+# 🌍 Philosophy
+
+We believe that **AI should augment engineering, not replace rigor**.
+
+That’s why our tools follow a strict architecture:
+
+```
+Deterministic Systems
++
+AI Explanation Layer
+```
+
+AI helps explain —  
+but **security and correctness remain deterministic**.
+
+---
+
+# 🤝 Contributing
+
+We welcome engineers interested in:
+
+• AI infrastructure  
+• LLM systems  
+• blockchain security  
+• developer tooling  
+
+If you want to contribute:
+
+1. Fork the repository  
+2. Create a feature branch  
+3. Open a Pull Request
+
+---
+
+# ⭐ Support the Projects
+
+If you find any of our tools useful:
+
+⭐ Star the repositories  
+🧠 Join discussions  
+🚀 Contribute improvements
+
+---
+
+# 👨‍💻 Founder
+
+Built by
+
 **Anvar Baltakhojayev**
 
 AI Systems Engineer  
 Blockchain Infrastructure Engineer
 
-https://anvar.dev
+🌐 https://anvar.dev  
+🔗 https://codepilotai.dev
+
+---
+
+<div align="center">
+
+### Building the future of AI-native engineering tools
+
+</div>
