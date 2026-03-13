@@ -68,6 +68,8 @@ Detects:
 • chunking issues  
 • hallucination root causes  
 
+https://github.com/NeuroForgeLabs/rag-doctor
+
 Designed for **AI engineers building production LLM systems**.
 
 ---
@@ -154,6 +156,7 @@ Blockchain Infrastructure Engineer
 
 🌐 https://anvar.dev  
 🔗 https://codepilotai.dev
+🔗 https://github.com/NeuroForgeLabs/rag-doctor
 
 ---
 
