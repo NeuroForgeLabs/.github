@@ -4,7 +4,7 @@
 
 ### AI Systems • Security Tools • Developer Infrastructure
 
-Building the next generation of **AI-native developer tools**.
+Building the next generation of **AI-native developer tools**
 
 [![GitHub stars](https://img.shields.io/github/stars/NeuroForgeLabs?style=social)](https://github.com/NeuroForgeLabs)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
@@ -17,14 +17,18 @@ Building the next generation of **AI-native developer tools**.
 
 # ⚡ About NeuroForgeLabs
 
-**NeuroForgeLabs** is an open-source engineering lab focused on building advanced tools for:
+**NeuroForgeLabs** is an open-source engineering lab focused on building advanced tools for modern software engineers working with **AI systems and blockchain infrastructure**.
+
+Our work focuses on the intersection of:
 
 • 🤖 **AI Engineering**  
 • 🔐 **Smart Contract Security**  
 • 🧠 **LLM Infrastructure**  
 • ⚙️ **Developer Productivity**
 
-Our goal is to build **AI-native development tooling** that helps engineers build, debug, and secure complex systems.
+The mission is simple:
+
+Build **AI-native developer tools** that help engineers build, debug, and secure complex systems faster.
 
 ---
 
@@ -32,22 +36,27 @@ Our goal is to build **AI-native development tooling** that helps engineers buil
 
 ## 🛡 OpenAudit AI
 
-Deterministic smart-contract security analysis engine for Solidity.
+🔗 https://github.com/NeuroForgeLabs/openaudit-ai
 
-Unlike traditional AI auditors, OpenAudit AI uses:
+Deterministic **smart-contract security analysis engine for Solidity**.
+
+Unlike traditional AI auditors, OpenAudit AI separates **security detection from AI reasoning**, ensuring results remain deterministic and reproducible.
+
+Core components:
 
 • AST-based static analysis  
-• deterministic rule engines  
-• reproducible security findings  
+• deterministic vulnerability rule engine  
+• structured security findings  
+• optional AI explanation layer
 
-Optional AI layer provides **human-readable explanations**.
+Architecture:
 
 ```
 Solidity Contract
 ↓
 Static Parser
 ↓
-AST
+AST Representation
 ↓
 Rule Engine
 ↓
@@ -55,57 +64,72 @@ Security Findings
 ↓
 AI Explanation Layer
 ```
+
+
+Designed for **security engineers, auditors, and CI pipelines**.
+
 ---
 
 ## 🧠 RAG Doctor
 
-Developer tool for diagnosing **RAG pipeline failures**.
+🔗 https://github.com/NeuroForgeLabs/rag-doctor
 
-Detects:
+Developer tool for diagnosing **failures in Retrieval-Augmented Generation (RAG) systems**.
+
+RAG Doctor helps engineers identify:
 
 • retrieval failures  
 • embedding drift  
-• chunking issues  
+• chunking problems  
 • hallucination root causes  
+• vector search issues
 
-https://github.com/NeuroForgeLabs/rag-doctor
-
-Designed for **AI engineers building production LLM systems**.
+Built specifically for **AI engineers deploying production LLM pipelines**.
 
 ---
 
 ## 🤖 CodePilot AI
 
-AI interview preparation platform designed for **AI engineers and system builders**.
+🔗 https://github.com/NeuroForgeLabs/CodePilot-AI  
+🌐 https://codepilotai.dev
 
-Focus areas:
+**AI-powered interview preparation platform** designed for engineers preparing for coding challenges and technical interviews.
+
+CodePilot combines:
+
+• coding exercises  
+• AI-guided hints  
+• structured problem solving  
+• Retrieval-Augmented Generation (RAG)
+
+to help engineers practice **modern AI-assisted problem solving workflows**.
+
+The platform focuses on:
 
 • algorithmic thinking  
-• AI-assisted problem solving  
-• modern coding challenges  
-• simulated engineering environments  
-
-🌐 https://codepilotai.dev
+• AI-guided coding assistance  
+• realistic interview scenarios  
+• developer skill evaluation
 
 ---
 
 # 🧪 Research Areas
 
-NeuroForgeLabs explores cutting-edge systems including:
+NeuroForgeLabs explores systems at the intersection of **AI infrastructure and developer tooling**, including:
 
-• Retrieval Augmented Generation (RAG)  
+• Retrieval-Augmented Generation (RAG)  
+• Vector databases and embeddings  
 • AI debugging infrastructure  
-• developer tooling for LLM systems  
-• blockchain security analysis  
+• Smart contract security analysis  
 • AI-assisted software engineering
 
 ---
 
-# 🌍 Philosophy
+# 🌍 Engineering Philosophy
 
-We believe that **AI should augment engineering, not replace rigor**.
+We believe **AI should augment engineering, not replace rigor**.
 
-That’s why our tools follow a strict architecture:
+Our tools follow a layered architecture:
 
 ```
 Deterministic Systems
@@ -113,7 +137,8 @@ Deterministic Systems
 AI Explanation Layer
 ```
 
-AI helps explain —  
+
+AI helps explain results —  
 but **security and correctness remain deterministic**.
 
 ---
@@ -127,9 +152,9 @@ We welcome engineers interested in:
 • blockchain security  
 • developer tooling  
 
-If you want to contribute:
+If you'd like to contribute:
 
-1. Fork the repository  
+1. Fork a repository  
 2. Create a feature branch  
 3. Open a Pull Request
 
@@ -155,8 +180,6 @@ AI Systems Engineer
 Blockchain Infrastructure Engineer
 
 🌐 https://anvar.dev  
-🔗 https://codepilotai.dev
-🔗 https://github.com/NeuroForgeLabs/rag-doctor
 
 ---
 
